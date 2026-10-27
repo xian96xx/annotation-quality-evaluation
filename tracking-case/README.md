@@ -55,7 +55,7 @@ python -m unittest discover -s tests -v
 
 ## 复核表与候选规则回测
 
-已整理 6 帧[待人工复核表](reports/review_worklist.csv)，并试验相对关键帧高度收缩提示。该候选在三关键帧设置提示 53/58 个可检查帧，提示量过大，不建议接入。用户已单人指出第 2、16 帧左侧未包住，第 34 帧上方过宽；其余三帧仍待人工判断。原先 Codex 视觉初筛也保留在表中；[查看完整结果](REVIEW_AND_EXPERIMENT.md)。
+已整理 6 帧[待人工复核表](reports/review_worklist.csv)，并试验相对关键帧高度收缩提示。该候选在第一段三关键帧设置提示 53/58 帧，阈值冻结后在第二段提示 52/58 帧；提示量过大，不建议接入。用户已单人指出第 2、16 帧左侧未包住，第 34 帧上方过宽；其余三帧仍待人工判断。原先 Codex 视觉初筛也保留在表中；[查看完整结果](REVIEW_AND_EXPERIMENT.md)及[第二段检查](SECOND_SEQUENCE_REPORT.md)。
 
 ## 边界修正的单帧候选试验
 

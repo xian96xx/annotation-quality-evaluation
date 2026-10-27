@@ -1,3 +1,4 @@
 ﻿setting,total_frames,anchor_skipped,eligible,review,no_flag,flag_rate,intervals_one_based
 two,61,2,59,59,0,1.0,2-60
 three,61,3,58,53,5,0.9138,2-30; 32-33; 38-41; 43-60
+second_sequence_three,61,3,58,52,6,0.8966,2-2; 4-5; 8-26; 28-30; 32-43; 45-45; 47-60
