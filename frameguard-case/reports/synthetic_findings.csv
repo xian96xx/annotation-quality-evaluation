@@ -1,0 +1,5 @@
+﻿frame_zero_based,type,status
+2,out_of_bounds,确定性错误
+5,large_jump,疑似异常，需人工复核
+6,large_jump,疑似异常，需人工复核
+8,invalid_geometry,确定性错误

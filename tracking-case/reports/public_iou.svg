@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" role="img" aria-label="IoU compared at frames 16 and 46 using two and three anchors">
+<rect width="700" height="300" fill="white"/><text x="35" y="35" font-size="19" font-family="sans-serif" fill="#24344c">Public sample: IoU against reference boxes</text>
+<text x="35" y="58" font-size="13" font-family="sans-serif" fill="#495a70">One sequence; only two held-out frames; not an X-AnyLabeling result</text>
+<path d="M100 75 V245 H650" stroke="#617087" fill="none"/>
+<g font-family="sans-serif" font-size="13" fill="#34435a"><text x="45" y="247">0</text><text x="40" y="165">0.5</text><text x="40" y="85">1.0</text><text x="175" y="266">Frame 16</text><text x="435" y="266">Frame 46</text></g>
+<g><rect x="150" y="136" width="50" height="109" fill="#367cb4"/><rect x="205" y="147" width="50" height="98" fill="#e2964c"/><rect x="410" y="147" width="50" height="98" fill="#367cb4"/><rect x="465" y="152" width="50" height="93" fill="#e2964c"/></g>
+<g font-family="sans-serif" font-size="13" fill="#24344c"><text x="148" y="129">0.6821</text><text x="203" y="140">0.6116</text><text x="408" y="140">0.6114</text><text x="463" y="145">0.5800</text><text x="98" y="291" fill="#367cb4">■ Two anchors</text><text x="275" y="291" fill="#a05b1c">■ Three anchors</text></g>
+</svg>

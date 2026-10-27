@@ -1,0 +1,5 @@
+﻿frame_one_based,method,iou,max_edge_error_px
+16,two_anchors,0.6821,27.75
+16,three_anchors,0.6116,37.0
+46,two_anchors,0.6114,29.75
+46,three_anchors,0.58,45.5
