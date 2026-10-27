@@ -1,7 +1,7 @@
-﻿frame_one_based,setting,reference_box_available,frameguard_flags_in_sequence,prototype_candidate,height_ratio,subject_check,fine_parts_check,oversize_check,observation_source,human_decision,human_reason,reviewer,review_date
-2,three_anchors,no,0,review,0.7826,可见主体在框内；完整性待人工确认,左侧未包住（用户判断；具体部件未细分）,待人工确认,Codex视觉初筛；未有人类确认,不理想：左侧未包住,用户复核公开对照图反馈左边没包住,用户（单人复核）,2026-10-27
-16,three_anchors,yes,0,review,0.7246,可见主体在框内；完整性待人工确认,左侧未包住（用户判断；具体部件未细分）,待人工确认,Codex视觉初筛；未有人类确认,不理想：左侧未包住,用户复核公开对照图反馈左边没包住,用户（单人复核）,2026-10-27
-34,three_anchors,no,0,no_flag,0.8759,可见主体在框内；完整性待人工确认,旋翼灰边受模糊及叠框影响；不确定,是：上方过宽（用户判断）,Codex视觉初筛；未有人类确认,不理想：上方过宽,用户复核公开对照图反馈上面太宽,用户（单人复核）,2026-10-27
-42,three_anchors,no,0,no_flag,0.9146,可见主体在框内；完整性待人工确认,旋翼灰边受模糊及叠框影响；不确定,待人工确认,Codex视觉初筛；未有人类确认,待人工,,,
-46,three_anchors,yes,0,review,0.7658,可见主体在框内；完整性待人工确认,旋翼灰边受模糊及叠框影响；不确定,待人工确认,Codex视觉初筛；未有人类确认,待人工,,,
-59,three_anchors,no,0,review,0.8029,可见主体在框内；完整性待人工确认,旋翼灰边受模糊及叠框影响；不确定,待人工确认,Codex视觉初筛；未有人类确认,待人工,,,
+﻿frame_one_based,setting,reference_box_available,frameguard_flags_in_sequence,prototype_candidate,height_ratio,subject_check,fine_parts_check,oversize_check,observation_source,human_decision,human_reason,reviewer,review_date,candidate_edge,candidate_move_px,candidate_feedback
+2,three_anchors,no,0,review,0.7826,可见主体在框内；完整性待人工确认,左侧未包住（用户判断；具体部件未细分）,待人工确认,Codex视觉初筛；未有人类确认,不理想：左侧未包住,用户复核公开对照图反馈左边没包住,用户（单人复核）,2026-10-27,左边向外,-10.8,已展示新候选；用户未逐张确认效果
+16,three_anchors,yes,0,review,0.7246,可见主体在框内；完整性待人工确认,左侧未包住（用户判断；具体部件未细分）,待人工确认,Codex视觉初筛；未有人类确认,不理想：左侧未包住,用户复核公开对照图反馈左边没包住,用户（单人复核）,2026-10-27,左边向外,-7.0,已展示新候选；用户未逐张确认效果
+34,three_anchors,no,0,no_flag,0.8759,可见主体在框内；完整性待人工确认,旋翼灰边受模糊及叠框影响；不确定,是：上方过宽（用户判断）,Codex视觉初筛；未有人类确认,不理想：上方过宽,用户复核公开对照图反馈上面太宽,用户（单人复核）,2026-10-27,上边向下,+22.4,用户在两种候选中认为此候选相对较合适；未确认绝对正确
+42,three_anchors,no,0,no_flag,0.9146,可见主体在框内；完整性待人工确认,旋翼灰边受模糊及叠框影响；不确定,待人工确认,Codex视觉初筛；未有人类确认,待人工,,,,,,未生成候选
+46,three_anchors,yes,0,review,0.7658,可见主体在框内；完整性待人工确认,旋翼灰边受模糊及叠框影响；不确定,待人工确认,Codex视觉初筛；未有人类确认,待人工,,,,,,未生成候选
+59,three_anchors,no,0,review,0.8029,可见主体在框内；完整性待人工确认,旋翼灰边受模糊及叠框影响；不确定,待人工确认,Codex视觉初筛；未有人类确认,待人工,,,,,,未生成候选
