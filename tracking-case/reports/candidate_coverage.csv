@@ -1,0 +1,3 @@
+﻿setting,total_frames,anchor_skipped,eligible,review,no_flag,flag_rate,intervals_one_based
+two,61,2,59,59,0,1.0,2-60
+three,61,3,58,53,5,0.9138,2-30; 32-33; 38-41; 43-60
